@@ -1,0 +1,9 @@
+{
+    "name": "alexandrdunaev/engine",
+    "description": "dev",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "silex/silex": "~2.0"
+    }
+}
